@@ -1,1 +1,2 @@
 hello new Git file
+adding text as part of gitTemp branch
